@@ -4,6 +4,8 @@
   import Counter from './lib/Counter.svelte'
 </script>
 
+
+
 <main>
   <div>
     <a href="https://vite.dev" target="_blank" rel="noreferrer">
@@ -24,7 +26,7 @@
   </p>
 
   <p class="read-the-docs">
-    Click on the Vite and Svelte logos to learn more
+    This is a random test message
   </p>
 </main>
 
